@@ -6,13 +6,22 @@ A new Flutter project integrated with GetStream API to test compatibility.
 
 This project is a starting point for a Flutter application.
 
-Versions used:
+### Versions used:
+
 stream_chat_flutter: 9.10.0
+
 compileSdk = 35
+
 ndkVersion = "27.0.12077973"
+
 minSdk = 23
 
-## How to run:
+gradle: gradle-8.9
+
+
+### How to run:
 flutter clean
+
 flutter packages get
+
 flutter run
